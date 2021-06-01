@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T22:26:07.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="baJzjPxU19COEJhbrdvt" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T22:31:45.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gb33dwPbU4GTo9Cga1XU" version="14.7.0" type="github">
   <diagram id="L7HbKPoqp5m_SwyzfuJl" name="Страница 1">
-    <mxGraphModel dx="4063" dy="2134" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4063" dy="2297" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,8 +290,8 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-62" target="LGjzmEfDbxT8cVo_mgAx-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-62" value="&lt;div&gt;&amp;nbsp;newNode&lt;span&gt;= (struct Node*)malloc(sizeof(struct Node));&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="132" width="192" height="60" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-62" value="&lt;div style=&quot;font-size: 9px&quot;&gt;&amp;nbsp;newNode&lt;span&gt;= (struct Node*)malloc(sizeof(struct Node));&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="132" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-64">
           <mxGeometry relative="1" as="geometry">
@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-64" value="newNode-&gt;prev = NULL;&#xa;	newNode-&gt;next = NULL;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="816" y="132" width="120" height="60" as="geometry" />
+          <mxGeometry x="756" y="132" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-68" value="return&amp;nbsp;&lt;br&gt;newNode" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="960" y="122" width="80" height="80" as="geometry" />
@@ -482,8 +482,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-136" value="head == NULL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="936" width="80" height="80" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-136" value="&lt;font style=&quot;font-size: 8px&quot;&gt;head == NULL&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="948" width="69" height="56" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-139" value="List is empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="1032" width="120" height="60" as="geometry" />
@@ -513,7 +513,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-145" value="temp-&amp;gt;next != NULL" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="112" y="1230" width="120" height="80" as="geometry" />
+          <mxGeometry x="128" y="1238" width="88" height="62" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-148" target="LGjzmEfDbxT8cVo_mgAx-145">
           <mxGeometry relative="1" as="geometry" />
@@ -602,7 +602,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-173" value="&lt;span style=&quot;font-size: 11px&quot;&gt;if(...&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="743.5" y="736" width="145" height="51" as="geometry" />
+          <mxGeometry x="788.88" y="735.5" width="54.25" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-175" target="LGjzmEfDbxT8cVo_mgAx-177">
           <mxGeometry relative="1" as="geometry">
@@ -992,8 +992,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-309" value="temp == NULL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1162" y="567.5" width="80" height="80" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-309" value="&lt;font style=&quot;font-size: 10px&quot;&gt;temp == NULL&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="577.5" width="62" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-311" value="&quot;Список пустой! \n&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1142" y="677.5" width="120" height="60" as="geometry" />
@@ -1129,7 +1129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-356" value="while(temp != NULL)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1373" y="1137" width="120" height="86" as="geometry" />
+          <mxGeometry x="1383" y="1141.5" width="101" height="71" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-362" target="LGjzmEfDbxT8cVo_mgAx-360">
           <mxGeometry relative="1" as="geometry">
@@ -1139,13 +1139,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-360" value="&quot;Наименование позиции: %s Цена позиции: %f \n&quot;,temp-&amp;gt;jewelry_name,temp-&amp;gt;jewelry_cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="1428" width="272" height="60" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-360" value="&lt;font style=&quot;font-size: 8px&quot;&gt;&quot;Наименование позиции: %s Цена позиции: %f \n&quot;,temp-&amp;gt;jewelry_name,temp-&amp;gt;jewelry_cost&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1373.5" y="1416" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-362" target="LGjzmEfDbxT8cVo_mgAx-364">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1526" y="1295" />
+              <mxPoint x="1489" y="1295" />
               <mxPoint x="1580" y="1295" />
               <mxPoint x="1580" y="1499" />
               <mxPoint x="1433" y="1499" />
@@ -1153,13 +1153,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-362" value="&lt;font style=&quot;font-size: 10px&quot;&gt;temp-&amp;gt;jewelry_cost &amp;gt;= range_min&amp;amp;&amp;amp;temp-&amp;gt;jewelry_cost &amp;lt;=range_max&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=7.833333333333712;" vertex="1" parent="1">
-          <mxGeometry x="1334.13" y="1267.5" width="197.75" height="61" as="geometry" />
+          <mxGeometry x="1375.06" y="1267.5" width="115.88" height="61" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-363" value="+++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1431" y="1377" width="36" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-364" target="LGjzmEfDbxT8cVo_mgAx-356">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-364" target="LGjzmEfDbxT8cVo_mgAx-356">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1404" y="1177" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1285" y="1565" />
               <mxPoint x="1285" y="1180" />
@@ -1232,7 +1233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-381" value="while(temp != NULL)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1669" y="965.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1680.5" y="971.5" width="97" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-385" target="LGjzmEfDbxT8cVo_mgAx-387">
           <mxGeometry relative="1" as="geometry" />
@@ -1246,8 +1247,8 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-385" value="&lt;font size=&quot;1&quot;&gt;strstr(...&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1678" y="1078" width="102" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-387" value="&lt;font style=&quot;font-size: 9px&quot;&gt;printf(&quot;Название позиции: %s\n Тип камня: %s\n Название камня: %s\n&quot;,temp-&amp;gt;jewelry_name,temp-&amp;gt;jewelry_stone_type,temp-&amp;gt;jewelry_stone_name);&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1716" y="1188" width="216" height="47.5" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-387" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Название позиции: Тип камня:&amp;nbsp; Название камня: &quot;,&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1788" y="1188" width="144" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-390" value="+++++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1739" y="1113" width="48" height="24" as="geometry" />
@@ -1312,8 +1313,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-433" value="(strstr(temp-&amp;gt;jewelry_name, keyword) != NULL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="813.5" width="170" height="48.5" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-433" value="&lt;font style=&quot;font-size: 9px&quot;&gt;(strstr(temp-&amp;gt;jewelry_name, keyword) != NULL&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2093.5" y="816.5" width="141" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-435" value="&amp;nbsp;sum += temp-&amp;gt;jewelry_cost;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2104" y="916" width="120" height="60" as="geometry" />
@@ -1508,8 +1509,8 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-490" target="LGjzmEfDbxT8cVo_mgAx-504">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-490" value="if (element1 != head)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2385" y="1666" width="154" height="60" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-490" value="&lt;font style=&quot;font-size: 11px&quot;&gt;if (element1 != head)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2398.5" y="1666" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-497" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-493" target="LGjzmEfDbxT8cVo_mgAx-496">
           <mxGeometry relative="1" as="geometry" />
@@ -1826,9 +1827,6 @@
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-587" value="&lt;span style=&quot;font-size: 9px ; text-align: center&quot;&gt;strstr(temp-&amp;gt;jewelry_stone_type, keyword)!=NULL &lt;br&gt;| strstr(temp-&amp;gt;jewelry_stone_name, keyword) != NULL&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1837" y="1041.5" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-589" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.722;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-387" target="LGjzmEfDbxT8cVo_mgAx-387">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
