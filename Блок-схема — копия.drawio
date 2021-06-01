@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T22:09:29.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ax5yVfnFDN6NtAfZu0wX" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T22:11:11.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="fj8TB1-Nsn06ynAiyHCI" version="14.7.0" type="github">
   <diagram id="L7HbKPoqp5m_SwyzfuJl" name="Страница 1">
-    <mxGraphModel dx="2844" dy="1494" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4740" dy="2490" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1134,14 +1134,15 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-362" target="LGjzmEfDbxT8cVo_mgAx-364">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1526" y="1295" />
               <mxPoint x="1580" y="1295" />
               <mxPoint x="1580" y="1499" />
               <mxPoint x="1433" y="1499" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-362" value="temp-&amp;gt;jewelry_cost &amp;gt;= range_min&amp;amp;&amp;amp;temp-&amp;gt;jewelry_cost &amp;lt;=range_max" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=7.833333333333712;" vertex="1" parent="1">
-          <mxGeometry x="1313" y="1247" width="240" height="96" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-362" value="&lt;font style=&quot;font-size: 10px&quot;&gt;temp-&amp;gt;jewelry_cost &amp;gt;= range_min&amp;amp;&amp;amp;temp-&amp;gt;jewelry_cost &amp;lt;=range_max&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=7.833333333333712;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1249" width="209.75" height="96" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-363" value="+++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1431" y="1377" width="36" height="24" as="geometry" />
