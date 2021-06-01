@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T22:18:22.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wmz63brG8cyuxWicwREj" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T22:26:07.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="baJzjPxU19COEJhbrdvt" version="14.7.0" type="github">
   <diagram id="L7HbKPoqp5m_SwyzfuJl" name="Страница 1">
     <mxGraphModel dx="4063" dy="2134" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -94,13 +94,14 @@
         <mxCell id="1buuXYzWd8PRPCw0UcvQ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="3288" y="2328" width="12" height="11.25" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-132" target="LGjzmEfDbxT8cVo_mgAx-45">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408" y="198" as="sourcePoint" />
+            <mxPoint x="425" y="204" as="sourcePoint" />
+            <mxPoint x="365" y="852" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="448" y="204" />
-              <mxPoint x="448" y="828" />
-              <mxPoint x="360" y="828" />
+              <mxPoint x="453" y="204" />
+              <mxPoint x="453" y="828" />
+              <mxPoint x="365" y="828" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,20 +134,14 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-10" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="72" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.097;entryY=0.764;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-13" target="LGjzmEfDbxT8cVo_mgAx-132">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.96000000000004" y="223.6199999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="256" y="442" />
-              <mxPoint x="256" y="224" />
-              <mxPoint x="301" y="224" />
-              <mxPoint x="301" y="223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="441.8571428571428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-608" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="442.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-13" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -157,22 +152,27 @@
             <mxPoint x="360" y="441.8571428571428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-14" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="420" width="44" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.053;entryY=0.659;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-15" target="LGjzmEfDbxT8cVo_mgAx-132">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-601" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.28" y="216.17999999999995" as="targetPoint" />
+            <mxPoint x="216" y="696" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="526" />
-              <mxPoint x="240" y="216" />
-              <mxPoint x="302" y="216" />
+              <mxPoint x="444" y="442" />
+              <mxPoint x="444" y="804" />
+              <mxPoint x="216" y="804" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-14" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="420" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="526.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-607" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="526.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-15" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -183,22 +183,22 @@
             <mxPoint x="360" y="526.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-16" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="504" width="44" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-17">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-602" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306.66666666666674" y="211.33333333333337" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="228" y="622" />
-              <mxPoint x="228" y="211" />
-              <mxPoint x="307" y="211" />
-            </Array>
+            <mxPoint x="444" y="526.1428571428571" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-16" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="504" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="621.8571428571428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-606" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="622.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-17" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -209,15 +209,20 @@
             <mxPoint x="360" y="598.047619047619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-18" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="576" width="44" height="44" as="geometry" />
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-603" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="595.8571428571429" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-21">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-18" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="574" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-21" target="LGjzmEfDbxT8cVo_mgAx-132">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="312" y="198" as="targetPoint" />
             <Array as="points">
               <mxPoint x="216" y="694" />
-              <mxPoint x="216" y="198" />
+              <mxPoint x="216" y="204" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -234,16 +239,26 @@
             <mxPoint x="360" y="681.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-604" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="682.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-32" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="44" height="44" as="geometry" />
+          <mxGeometry x="384" y="660" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="766.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-605" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="766.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-33" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="744" width="44" height="44" as="geometry" />
+          <mxGeometry x="384" y="744" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-45" value="Конец" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="852" width="120" height="60" as="geometry" />
@@ -728,6 +743,16 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-212" target="LGjzmEfDbxT8cVo_mgAx-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-590" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="LGjzmEfDbxT8cVo_mgAx-208">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="864" y="2280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="864" y="2232" />
+              <mxPoint x="660" y="2232" />
+              <mxPoint x="660" y="604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-212" value="&lt;div&gt;&amp;nbsp;switch (n)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="944" y="1883.76" width="80" height="80" as="geometry" />
         </mxCell>
@@ -785,13 +810,9 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-244" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.087;entryY=0.841;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-245" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-599" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-245">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="982" y="2275" />
-              <mxPoint x="643" y="2275" />
-              <mxPoint x="643" y="631" />
-            </Array>
+            <mxPoint x="982.294117647059" y="2292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-245" value="temp-&amp;gt;jewelry_name, buffer&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -809,12 +830,12 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-254" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1048" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-255" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-592" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-255">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="864" y="2256" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1090" y="2280" />
-              <mxPoint x="638" y="2280" />
-              <mxPoint x="638" y="621" />
+              <mxPoint x="1090" y="2292" />
+              <mxPoint x="864" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -833,14 +854,11 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-257" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.43;exitY=0.982;exitDx=0;exitDy=0;endArrow=classic;endFill=1;exitPerimeter=0;" edge="1" parent="1" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-594" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-258">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1178.11" y="2263.48476" as="sourcePoint" />
-            <mxPoint x="742.79" y="607.7299999999999" as="targetPoint" />
+            <mxPoint x="1092" y="2292" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1178" y="2285" />
-              <mxPoint x="632" y="2285" />
-              <mxPoint x="632" y="610" />
+              <mxPoint x="1202" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -859,15 +877,11 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-260" value="float_buf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1268" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-261" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-595" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-261">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1308.97" y="2276.79" as="sourcePoint" />
-            <mxPoint x="761" y="604" as="targetPoint" />
+            <mxPoint x="1199.9999999999995" y="2292" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1309" y="2269" />
-              <mxPoint x="1309" y="2289" />
-              <mxPoint x="628" y="2289" />
-              <mxPoint x="628" y="604" />
+              <mxPoint x="1310" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -886,15 +900,11 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-263" value="int_buf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1374" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.039;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-596" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-264">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="593.9200000000001" as="targetPoint" />
-            <mxPoint x="1404" y="2268.79" as="sourcePoint" />
+            <mxPoint x="1308" y="2292" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1403" y="2269" />
-              <mxPoint x="1403" y="2294" />
-              <mxPoint x="623" y="2294" />
-              <mxPoint x="623" y="594" />
+              <mxPoint x="1416" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -913,12 +923,11 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-266" value="float_buf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-267" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-597" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-267">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1416" y="2292" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1524" y="2299" />
-              <mxPoint x="617" y="2299" />
-              <mxPoint x="617" y="587" />
+              <mxPoint x="1524" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -937,12 +946,11 @@
         <mxCell id="LGjzmEfDbxT8cVo_mgAx-269" value="float_buf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1578" y="2152.61" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGjzmEfDbxT8cVo_mgAx-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.095;entryY=0.175;entryDx=0;entryDy=0;endArrow=classic;endFill=1;entryPerimeter=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-270" target="LGjzmEfDbxT8cVo_mgAx-208">
+        <mxCell id="LGjzmEfDbxT8cVo_mgAx-598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LGjzmEfDbxT8cVo_mgAx-270">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1524" y="2292" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1620" y="2304" />
-              <mxPoint x="612" y="2304" />
-              <mxPoint x="612" y="578" />
+              <mxPoint x="1620" y="2292" />
             </Array>
           </mxGeometry>
         </mxCell>
